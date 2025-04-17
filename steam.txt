@@ -1,0 +1,16 @@
+@@||steampowered.com^
+@@||steamcommunity.com^
+@@||steamgames.com^
+@@||steamcontent.com^
+@@||steamstatic.com^
+@@||steamusercontent.com^
+@@||cs.steampowered.com^
+@@||store.steampowered.com^
+@@||api.steampowered.com^
+@@||content.steampowered.com^
+@@||client-download.steampowered.com^
+@@||media.steampowered.com^
+@@||community.akamai.steamstatic.com^
+@@||akamai.steamcontent.com^
+@@||edgecast.steamcontent.com^
+@@||steamcdn-a.akamaihd.net^
